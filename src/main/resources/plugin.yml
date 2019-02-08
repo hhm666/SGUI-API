@@ -1,0 +1,7 @@
+name: "SGUI-API"
+version: "1.0.0"
+api: ["1.0.0"]
+author: "hhm"
+description: "Nukkit Simple GUI API"
+main: "net.mcpes.hhm.guiapi.SGUIAPI"
+depend: ["KotlinLib"]
