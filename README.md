@@ -3,7 +3,6 @@ Minecraft Nukkit Plugin GUI API
 
 **Now Version: 0.1.0-Alpha**
 
-
 SGUI-API requires [KotlinLib](https://nukkitx.com/resources/kotlinlib.48/)
 
 Example usage
